@@ -1,0 +1,14 @@
+[grafana-server]
+ceph-testbed
+
+[mgrs]
+ceph-testbed
+
+[mons]
+ceph-testbed
+
+[osds]
+ceph-testbed
+
+[rgws]
+ceph-testbed
